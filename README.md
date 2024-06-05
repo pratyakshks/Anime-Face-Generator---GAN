@@ -1,1 +1,1 @@
-# Anime-Face-Generator---GAN
+# Anime-Face-Generator - GAN
